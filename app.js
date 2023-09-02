@@ -14,7 +14,7 @@ class App extends Component {
     );
   }
 }
-
+git
 // Creating our screen
 const screen = blessed.screen({
   autoPadding: true,
